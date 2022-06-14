@@ -15,5 +15,5 @@ docker-compose run --rm web python manage.py migrate
 
 ## 🦸 Superuser Creation
 ```
-docker exec medialab-webplattform_web_1 python manage.py createsuperuser
+docker exec --tty medialab-webplattform_web_1 python manage.py createsuperuser
 ```
