@@ -4,8 +4,8 @@ The digital.learning.lab is a online platform and understands itself as competen
 
 ## 🔐 Content-Management-System
 
-https://dll.mll.lbz.rwth-aachen.de/admin
-https://dll.mll.lbz.rwth-aachen.de/cms
+- https://dll.mll.lbz.rwth-aachen.de/admin
+- https://dll.mll.lbz.rwth-aachen.de/cms
 
 ## 🛳 Container Setup (SSH)
 ```
