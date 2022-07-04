@@ -15,7 +15,7 @@ sudo cp sample.env .env
 sudo docker-compose up -d
 ```
 ```
-sudodocker-compose run --rm web python manage.py migrate
+sudo docker-compose run --rm web python manage.py migrate
 ```
 
 ## 🦸 Superuser Creation (SSH)
