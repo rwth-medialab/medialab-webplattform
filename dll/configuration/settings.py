@@ -129,7 +129,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = "dll.configuration.wsgi.application"
 
-
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
@@ -202,7 +201,7 @@ else:
     # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
     STATIC_URL = os.getenv("STATIC_URL") or "/static/"
-    STATIC_ROOT = os.getenv("STATIC_ROOT") or os.path.join(BASE_DIR, "..", "static")
+    STATIC_ROOT = os.getenv("STATIC_ROOT") or os.path.join(BASE_DIR, ".." ,"static")
 
     MEDIA_URL = os.getenv("MEDIA_URL") or "/media/"
     MEDIA_ROOT = os.getenv("MEDIA_ROOT") or os.path.join(BASE_DIR, "media")
@@ -545,3 +544,9 @@ TRIGGER_EVENTS = (
     ("scroll", _("Scroll")),
     ("login", _("Login")),
 )
+#USE_X_FORWARDED_HOST = True
+#FORCE_SCRIPT_NAME = '/dll'
+#STATIC_SUFFIX = '/static/'
+#STATIC_URL = FORCE_SCRIPT_NAME + STATIC_SUFFIX
+#MEDIA_SUFFIX = '/media/'
+#MEDIA_URL = FORCE_SCRIPT_NAME + MEDIA_SUFFIX
