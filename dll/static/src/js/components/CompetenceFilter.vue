@@ -4,7 +4,7 @@
     <ul class="list-unstyled">
       <li class="form-check">
         <input class="form-check-input" type="checkbox" id="competence-1" name="competenceType" value="1" @change="update" v-model="internalCompetences">
-        <label class="form-check-label" for="competence-1">Suchen, Verarbeiten & Aufbewahren</label>
+        <label class="form-check-label" for="competence-1">Informieren & Recherchieren</label>
       </li>
       <li class="form-check">
         <input class="form-check-input" type="checkbox" id="competence-2" name="competenceType" value="2" @change="update" v-model="internalCompetences">
@@ -16,11 +16,11 @@
       </li>
       <li class="form-check">
         <input class="form-check-input" type="checkbox" id="competence-4" name="competenceType" value="4" @change="update" v-model="internalCompetences">
-        <label class="form-check-label" for="competence-4">Schützen & sicher Agieren</label>
+        <label class="form-check-label" for="competence-4">Bedienen & Anwenden</label>
       </li>
       <li class="form-check">
         <input class="form-check-input" type="checkbox" id="competence-5" name="competenceType" value="5" @change="update" v-model="internalCompetences">
-        <label class="form-check-label" for="competence-5">Problemlösen & Handeln</label>
+        <label class="form-check-label" for="competence-5">Problemlösen & Modellieren</label>
       </li>
       <li class="form-check">
         <input class="form-check-input" type="checkbox" id="competence-6" name="competenceType" value="6" @change="update" v-model="internalCompetences">

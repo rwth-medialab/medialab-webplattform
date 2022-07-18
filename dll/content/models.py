@@ -1115,16 +1115,16 @@ class OperatingSystem(models.Model):
 
 class Competence(TimeStampedModel):
     DEFAULT_NAMES = (
-        (1, "1. Suchen, Verarbeiten & Aufbewahren"),
+        (1, "1. Informieren & Recherchieren"),
         (2, "2. Kommunizieren & Kooperieren"),
         (3, "3. Produzieren & Präsentieren"),
-        (4, "4. Schützen & sicher Agieren"),
-        (5, "5. Problemlösen & Handeln"),
+        (4, "4. Bedienen & Anwenden"),
+        (5, "5. Problemlösen & Modellieren"),
         (6, "6. Analysieren & Reflektieren"),
     )
 
     DEFAULT_DESCRIPTIONS = {
-        1: "Zu dem Kompetenzbereich SUCHEN, VERARBEITEN & AUFBEWAHREN gehört der angemessene Umgang mit einer ständig "
+        1: "Zu dem Kompetenzbereich INFORMIEREN & Recherchieren gehört der angemessene Umgang mit einer ständig "
         "wachsenden Menge an Daten und Informationen, die allen Menschen durch digitale Technologien zur Verfügung "
         "steht. Umgang meint dabei das Suchen, Finden und Auswählen relevanter und vertrauenswürdiger Quellen und "
         "Informationen, die kritische Reflexion und Bewertung dieser sowie die Organisation, Nutzung und "
@@ -1141,7 +1141,7 @@ class Competence(TimeStampedModel):
         4: "Persönliche Daten, Privatsphäre und Persönlichkeitsrechte sind zentrale Themen, um sich selbst und andere "
         "im digitalen Raum zu SCHÜTZEN & SICHER zu AGIEREN. Dazu gehören auch Themen wie Cybermobbing und "
         "-kriminalität sowie Datenschutz und -sicherheit.",
-        5: "In dem Kompetenzbereich PROBLEMLÖSEN & HANDELN werden einerseits rein funktionale Fähigkeiten, wie der "
+        5: "In dem Kompetenzbereich PROBLEMLÖSEN & MODELLIEREN werden einerseits rein funktionale Fähigkeiten, wie der "
         "effektive Umgang mit Hardware und Software adressiert und andererseits Fähigkeiten beschrieben, diese "
         "digitalen Werkzeuge analysieren und für das eigene Handeln im digitalen Raum reflektieren und anwenden "
         "zu können.",
