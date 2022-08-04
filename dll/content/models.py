@@ -1124,7 +1124,7 @@ class Competence(TimeStampedModel):
     )
 
     DEFAULT_DESCRIPTIONS = {
-        1: "Zu dem Kompetenzbereich INFORMIEREN & Recherchieren gehört der angemessene Umgang mit einer ständig "
+        1: "Zu dem Kompetenzbereich INFORMIEREN & RECHERCHIEREN gehört der angemessene Umgang mit einer ständig "
         "wachsenden Menge an Daten und Informationen, die allen Menschen durch digitale Technologien zur Verfügung "
         "steht. Umgang meint dabei das Suchen, Finden und Auswählen relevanter und vertrauenswürdiger Quellen und "
         "Informationen, die kritische Reflexion und Bewertung dieser sowie die Organisation, Nutzung und "
