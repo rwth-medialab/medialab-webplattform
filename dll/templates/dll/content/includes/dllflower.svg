@@ -814,20 +814,22 @@
 	<polygon class="st6" data-element_type="schuetzen-sicher-agieren" fill="transparent" points="388.1,642.3 410.4,655.1 503.7,708.9 619.2,642.3 619.2,508.9 503.7,442.2 405.3,499.1 388.1,508.9 	"/>
 	<polygon class="st6" data-element_type="problemloesen-handeln" fill="transparent" points="152.5,504.5 145,508.9 145,642.3 260.4,708.9 376,642.3 376,508.9 260.4,442.2 	"/>
 	<polygon class="st6" data-element_type="analysieren-reflektieren" fill="transparent" points="138.9,231.6 23.3,298.3 23.3,431.6 132.5,494.7 138.9,498.3 254.4,431.6 254.4,298.3 	"/>
-    <path stroke-width="0" stroke="#000" id="svg_17" d="m163.28499,124l177.99999,0l0,94l-177.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
-    <path stroke-width="0" stroke="#000" id="svg_18" d="m396.28499,129l191.99999,0l0,94l-191.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
-    <path stroke-width="0" stroke="#000" id="svg_19" d="m522.28499,329l182.99999,0l0,94l-182.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
-    <path stroke-width="0" stroke="#000" id="svg_20" d="m405.28499,543l177.99999,0l0,94l-177.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
-    <path stroke-width="0" stroke="#000" id="svg_21" d="m160.28499,547l177.99999,0l0,94l-177.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
-    <path stroke-width="0" stroke="#000" id="svg_22" d="m38.28499,337l177.99999,0l0,94l-177.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
-    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_25" y="164" x="404.28497" stroke-width="0" stroke="#000" fill="#ffffff">Kommunizieren</text>
+
+    <path id="suchen-verarbeiten-aufbewahren" stroke-width="0" stroke="#000" id="svg_17" d="m163.28499,124l177.99999,0l0,94l-177.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
+    <path id="kommunizieren-kooperiere" stroke-width="0" stroke="#000" id="svg_18" d="m396.28499,129l191.99999,0l0,94l-191.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
+    <path id="produzieren-praesentieren" stroke-width="0" stroke="#000" id="svg_19" d="m522.28499,329l182.99999,0l0,94l-182.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
+    <path id="schuetzen-sicher-agieren" stroke-width="0" stroke="#000" id="svg_20" d="m405.28499,543l177.99999,0l0,94l-177.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
+    <path id="problemloesen-handeln" stroke-width="0" stroke="#000" id="svg_21" d="m160.28499,547l177.99999,0l0,94l-177.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
+    <path id="analysieren-reflektieren" stroke-width="0" stroke="#000" id="svg_22" d="m38.28499,337l177.99999,0l0,94l-177.99999,0l0,-94z" opacity="undefined" fill="#00232d"/>
+
+    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_25" y="165" x="404.28497" stroke-width="0" stroke="#000" fill="#ffffff">Kommunizieren</text>
     <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_26" y="198" x="414.28497" stroke-width="0" stroke="#000" fill="#ffffff">&amp; Kooperieren</text>
     <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_27" y="165" x="183.28497" stroke-width="0" stroke="#000" fill="#ffffff">Informieren</text>
-    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_28" y="196" x="161.28497" stroke-width="0" stroke="#000" fill="#ffffff">&amp; Recherchieren</text>
-    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_29" y="372" x="551.28497" stroke-width="0" stroke="#000" fill="#ffffff">Produzieren</text>
-    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_30" y="404" x="538.28497" stroke-width="0" stroke="#000" fill="#ffffff">&amp; Präsentieren</text>
-    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_31" y="585" x="438.28497" stroke-width="0" stroke="#000" fill="#ffffff">Bedienen</text>
-    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_32" y="615" x="423.28497" stroke-width="0" stroke="#000" fill="#ffffff">&amp; Anwenden</text>
+    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_28" y="198" x="161.28497" stroke-width="0" stroke="#000" fill="#ffffff">&amp; Recherchieren</text>
+    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_29" y="373" x="551.28497" stroke-width="0" stroke="#000" fill="#ffffff">Produzieren</text>
+    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_30" y="405" x="538.28497" stroke-width="0" stroke="#000" fill="#ffffff">&amp; Präsentieren</text>
+    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_31" y="580" x="438.28497" stroke-width="0" stroke="#000" fill="#ffffff">Bedienen</text>
+    <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_32" y="610" x="423.28497" stroke-width="0" stroke="#000" fill="#ffffff">&amp; Anwenden</text>
     <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_33" y="580" x="170.28497" stroke-width="0" stroke="#000" fill="#ffffff">Problemlösen</text>
     <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_34" y="610" x="169.28497" stroke-width="0" stroke="#000" fill="#ffffff">&amp; Modellieren</text>
     <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="24" id="svg_35" y="373" x="61.28497" stroke-width="0" stroke="#000" fill="#ffffff">Analysieren</text>
